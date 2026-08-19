@@ -38,7 +38,7 @@ Our goal is to build a shared understanding of UrbanStyle's sales, customer, and
 
 | Week | A — GitHub | B — Supabase | C — NotebookLM | D — Team Charter |
 |---|---|---|---|---|
-| Week 1 | Reio | Maria | Marvis | Daria |
-| Week 2 | Daria | Reio | Maria | Marvis |
-| Week 3 | Marvis | Daria | Reio | Maria |
-| Week 4 | Maria | Marvis | Daria | Reio |
+| Week 0 | Reio | Maria | Marvis | Daria |
+| Week 1 | Daria | Reio | Maria | Marvis |
+| Week 2 | Marvis | Daria | Reio | Maria |
+| Week 3 | Maria | Marvis | Daria | Reio |
