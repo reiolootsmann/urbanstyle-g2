@@ -24,11 +24,11 @@ Our goal is to build a shared understanding of UrbanStyle's sales, customer, and
 
 ### 1. How do we help each other when someone gets stuck?
 
-[Team agreement]
+We help each other whenever someone gets stuck or needs support. Team members can ask questions in our Google Workspace Chat, and anyone who can help will respond.
 
 ### 2. What time do we meet outside of sessions (if at all)?
 
-[Team agreement]
+We do not have regular meetings outside of the scheduled sessions. If needed, we communicate and coordinate through Google Workspace Chat.
 
 ### 3. How do we share files?
 
