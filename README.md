@@ -17,7 +17,7 @@ Our goal is to build a shared understanding of UrbanStyle's sales, customer, and
 
 - **Communication channel:** Google Workspace Chat
 - **GitHub repository:** https://github.com/reiolootsmann/urbanstyle-g2
-- **Supabase:** [link]
+- **Supabase:** https://supabase.com/dashboard/project/lbfadqgtscgffuftrprm
 - **NotebookLM:** [link]
 
 ## Agreements
@@ -32,7 +32,7 @@ Our goal is to build a shared understanding of UrbanStyle's sales, customer, and
 
 ### 3. How do we share files?
 
-[Team agreement]
+Google Workspace Chat
 
 ## Role Rotation
 
@@ -42,3 +42,9 @@ Our goal is to build a shared understanding of UrbanStyle's sales, customer, and
 | Week 1 | Daria | Reio | Maria | Marvis |
 | Week 2 | Marvis | Daria | Reio | Maria |
 | Week 3 | Maria | Marvis | Daria | Reio |
+| Week 4 | Reio | Maria | Marvis | Daria |
+| Week 5 | Daria | Reio | Maria | Marvis |
+| Week 6 | Marvis | Daria | Reio | Maria |
+| Week 7 | Maria | Marvis | Daria | Reio |
+| Week 8 | Reio | Maria | Marvis | Daria |
+| Week 9 | Daria | Reio | Maria | Marvis |
