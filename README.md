@@ -5,9 +5,9 @@
 | Name | Role | OS (Win/Mac/Linux) |
 |---|---|---|
 | Reio Lootsmann | GitHub Repository Coordinator | Windows |
-| Marvis Nelson | Supabase Setup | Windows |
+| Maria | Supabase Setup | Windows |
 | Daria Iudina | Team Charter Coordinator | Mac |
-| Maria | NotebookLM Coordinator | Windows |
+| Marvis Nelson | NotebookLM Coordinator | Windows |
 
 ## Our goal
 
