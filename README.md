@@ -7,7 +7,7 @@
 | Reio Lootsmann | GitHub Repository Coordinator | Windows |
 | Marvis Nelson | Supabase Setup | Windows |
 | Daria Iudina | Team Charter Coordinator | Mac |
-| Maria | Notebook | Windows |
+| Maria | NotebookLM Coordinator | Windows |
 
 ## Our goal
 
