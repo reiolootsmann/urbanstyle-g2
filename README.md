@@ -24,8 +24,12 @@ Our goal is to build a shared understanding of UrbanStyle's sales, customer, and
 
 ### 1. How do we help each other when someone gets stuck?
 
-We help each other whenever someone gets stuck or needs support. Team members can ask questions in our Google Workspace Chat, and anyone who can help will respond.
-
+- First, try to solve the problem independently using course materials, available resources, or AI tools.
+- When asking for help, explain what you are trying to do, what you have already tried, and where you are stuck.
+- Team members can spend up to **15 minutes helping with an individual issue**.
+- If the issue cannot be resolved within 15 minutes or requires more individual instruction, ask a mentor for support.
+- The team then continues with the shared task so that one individual issue does not block the group's progress.
+  
 ### 2. What time do we meet outside of sessions (if at all)?
 
 We do not have regular meetings outside of the scheduled sessions. If needed, we communicate and coordinate through Google Workspace Chat.
