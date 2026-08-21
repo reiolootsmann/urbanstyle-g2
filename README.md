@@ -18,7 +18,7 @@ Our goal is to build a shared understanding of UrbanStyle's sales, customer, and
 - **Communication channel:** Google Workspace Chat
 - **GitHub repository:** https://github.com/reiolootsmann/urbanstyle-g2
 - **Supabase:** https://supabase.com/dashboard/project/lbfadqgtscgffuftrprm
-- **NotebookLM:** [link]
+- **NotebookLM:** https://notebook.google.com/notebook/b9afeb5e-9352-4657-bd59-f27e00b38435
 
 ## Agreements
 
